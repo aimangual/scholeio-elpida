@@ -1,2 +1,2 @@
-class ClassroomSchedule < ActiveRecord::Base
+class ClassroomSchedule < Schedule
 end

@@ -1,2 +1,2 @@
-class StudentSchedule < ActiveRecord::Base
+class StudentSchedule < Schedule
 end
